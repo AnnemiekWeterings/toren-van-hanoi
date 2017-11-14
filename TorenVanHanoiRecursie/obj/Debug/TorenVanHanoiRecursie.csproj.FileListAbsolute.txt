@@ -1,0 +1,7 @@
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TorenVanHanoiRecursie\bin\Debug\TorenVanHanoiRecursie.exe.config
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TorenVanHanoiRecursie\bin\Debug\TorenVanHanoiRecursie.exe
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TorenVanHanoiRecursie\bin\Debug\TorenVanHanoiRecursie.pdb
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TorenVanHanoiRecursie\obj\Debug\TorenVanHanoiRecursie.csprojResolveAssemblyReference.cache
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TorenVanHanoiRecursie\obj\Debug\TorenVanHanoiRecursie.csproj.CoreCompileInputs.cache
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TorenVanHanoiRecursie\obj\Debug\TorenVanHanoiRecursie.exe
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TorenVanHanoiRecursie\obj\Debug\TorenVanHanoiRecursie.pdb
