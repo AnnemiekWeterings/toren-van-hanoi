@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorenVanHanoiRecursie", "TorenVanHanoiRecursie\TorenVanHanoiRecursie.csproj", "{7A902675-1234-4E31-8AC1-C25625C0E0F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabel", "Tabel\Tabel.csproj", "{150ADFDC-A2CD-4DFF-8E24-14814B2E11DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TijdPerSpel", "TijdPerSpel\TijdPerSpel.csproj", "{7DE41D04-50F4-4F6A-A20A-3F3BCFB26183}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7A902675-1234-4E31-8AC1-C25625C0E0F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A902675-1234-4E31-8AC1-C25625C0E0F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A902675-1234-4E31-8AC1-C25625C0E0F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150ADFDC-A2CD-4DFF-8E24-14814B2E11DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150ADFDC-A2CD-4DFF-8E24-14814B2E11DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150ADFDC-A2CD-4DFF-8E24-14814B2E11DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150ADFDC-A2CD-4DFF-8E24-14814B2E11DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE41D04-50F4-4F6A-A20A-3F3BCFB26183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE41D04-50F4-4F6A-A20A-3F3BCFB26183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE41D04-50F4-4F6A-A20A-3F3BCFB26183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE41D04-50F4-4F6A-A20A-3F3BCFB26183}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

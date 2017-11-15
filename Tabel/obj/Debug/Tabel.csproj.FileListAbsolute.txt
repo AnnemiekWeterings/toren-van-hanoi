@@ -1,0 +1,7 @@
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\Tabel\bin\Debug\Tabel.exe.config
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\Tabel\bin\Debug\Tabel.exe
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\Tabel\bin\Debug\Tabel.pdb
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\Tabel\obj\Debug\Tabel.csproj.CoreCompileInputs.cache
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\Tabel\obj\Debug\Tabel.exe
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\Tabel\obj\Debug\Tabel.pdb
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\Tabel\obj\Debug\Tabel.csprojResolveAssemblyReference.cache

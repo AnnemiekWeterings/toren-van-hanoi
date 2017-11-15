@@ -1,0 +1,7 @@
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TijdPerSpel\bin\Debug\TijdPerSpel.exe.config
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TijdPerSpel\bin\Debug\TijdPerSpel.exe
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TijdPerSpel\bin\Debug\TijdPerSpel.pdb
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TijdPerSpel\obj\Debug\TijdPerSpel.csproj.CoreCompileInputs.cache
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TijdPerSpel\obj\Debug\TijdPerSpel.exe
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TijdPerSpel\obj\Debug\TijdPerSpel.pdb
+C:\Users\Radius\OneDrive - ROC West-Brabant\lj_1\p1\vht\TorenVanHanoiRecursie\TijdPerSpel\obj\Debug\TijdPerSpel.csprojResolveAssemblyReference.cache
